@@ -1,7 +1,0 @@
-A neural network is a series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates
-
-
-
-Convolutional neural networks are a specialized type of artificial neural networks that use a mathematical operation called convolution in place of general matrix multiplication in at least one of their layers.[13] They are specifically designed to process pixel data and are used in image recognition and processing.
-
-CONTINUE NOTES ON APPLE NOTES 
